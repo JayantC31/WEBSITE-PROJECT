@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(129, 226, 239);
+  }
+  h1 {
+    color: blue;
+    text-align: center
+  }
+  p {
+    color: rgb(0, 92, 250);
+    border: 2px solid rgb(239, 191, 0);
+    padding: 30px;
+  }
+  .myDiv {
+    
+    border: 5px outset rgb(14, 13, 13);
+    background-color: rgb(133, 173, 59);
+    text-align: center;
+    
+  }
+
+  .myDiv2 {
+    border: 5px outset rgb(201, 29, 232);
+    background-color: rgb(236, 240, 229);
+    text-align: center;
+    
+  }
